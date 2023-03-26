@@ -15,7 +15,7 @@
     width: 100%;
     float: left;
     height: 100vh;
-    background-image: url(images/highway.jpg);
+    background-image: url(highway.jpg);
     background-size: 100%;
     overflow: hidden;
 }
